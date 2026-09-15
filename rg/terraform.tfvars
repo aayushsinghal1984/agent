@@ -1,6 +1,6 @@
 Rg = {
   "rg1" = {
-    name     = "testrgdrhub"
+    name     = "test-gdrhub"
     location = "eastus"
   }
 } 
